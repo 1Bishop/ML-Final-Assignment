@@ -2,6 +2,7 @@
 
 ## File Structure
 
+```
 Final Project Folder
 │   
 └───Data
@@ -10,3 +11,4 @@ Final Project Folder
 └───Notebook (This Repo)
     │   project.pdf
     │   ML - Final Assignment.ipynb
+```
