@@ -11,4 +11,5 @@ Final Project Folder
 └───Notebook (This Repo)
     │   project.pdf
     │   ML - Final Assignment.ipynb
+    |   .ipynb_checkpoints
 ```
